@@ -5,11 +5,11 @@ This project is to help refresh [Flask](https://flask.palletsprojects.com/) deve
 
 ## Development
 ### Starting from scratch
-1. `git clone <repo>` - Clone this project
-2. `pipenv install `- Installs all packages from Pipfile (recommend to use a virtual environment)
+1. `gh repo clone vnikki13/FlaskBlog` - Clone this project
+2. `python3 -m pipenv install `- Installs all packages from Pipfile (recommend to use a virtual environment)
 
 ### Running application
-1. Run as you would any other python file
+1. From top directory run `python3 run.py`
 2. In a web browser, go to `localhost`
 
 ## Credits
